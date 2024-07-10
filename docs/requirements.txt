@@ -8,3 +8,4 @@ networkx>=2.2
 observations>=0.1.4
 opt_einsum>=2.3.2
 tqdm>=4.25
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
