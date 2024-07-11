@@ -1,4 +1,4 @@
-ARG base_img=ubuntu:16.04
+ARG base_img=ubuntu:xenial-20201014
 FROM ${base_img}
 
 # Optional args
